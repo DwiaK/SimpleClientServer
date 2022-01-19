@@ -1,0 +1,17 @@
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\TCPClient.exe
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\TCPClient.deps.json
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\TCPClient.runtimeconfig.json
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\TCPClient.runtimeconfig.dev.json
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\TCPClient.dll
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\ref\TCPClient.dll
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\TCPClient.pdb
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\bin\Debug\net5.0\SimpleTcp.dll
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.csproj.AssemblyReference.cache
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.AssemblyInfo.cs
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.dll
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\ref\TCPClient.dll
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.pdb
+C:\Users\gumoe\source\repos\SimpleTcp\TCPClient\obj\Debug\net5.0\TCPClient.genruntimeconfig.cache

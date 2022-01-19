@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iwh4RBA2mhHnPPT3gfMExh6oakroUOrKzxd4yS7kBjk61VuWLZf48FTN1/gbRhvdf4Z5R31Rbvt1h8Eyanaleg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gumoe\\source\\repos\\SimpleTcp\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gumoe\\.nuget\\packages\\supersimpletcp\\2.5.0.1\\supersimpletcp.2.5.0.1.nupkg.sha512",
+    "C:\\Users\\gumoe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
